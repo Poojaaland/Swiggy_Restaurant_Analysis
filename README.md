@@ -68,3 +68,8 @@ Applying filters, slicers, and cross-visual interactions.
 📌 Conclusion
 
 This project demonstrates how Power BI can be used to convert raw data into meaningful insights through interactive and visually intuitive dashboards.
+
+Project Screenshort:
+
+
+<img width="546" height="306" alt="Screenshot 2026-02-21 173513" src="https://github.com/user-attachments/assets/98016246-081b-4723-89bb-51fafc4fe975" />
